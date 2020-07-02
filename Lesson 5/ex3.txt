@@ -1,0 +1,6 @@
+Ivanov 30
+Petrov 10
+Sidorov 70
+Ivanov 14
+Petrov 15
+Sidorov 90
