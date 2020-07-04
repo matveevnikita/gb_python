@@ -41,3 +41,5 @@ my_pencil.draw()
 my_handle = Handle()
 print('Handle')
 my_handle.draw()
+
+a = 2 + 2
